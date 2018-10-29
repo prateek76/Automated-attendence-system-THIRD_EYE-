@@ -1,4 +1,4 @@
-# SABKA_KATEGA
+# THIRD_EYE
 Prototype project
 
 Automated attendence system using ```Microsoft azure``` facial recoginition ```PHP-sdk```
